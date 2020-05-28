@@ -7,7 +7,7 @@
 # Michel Guijarro
 <sub>*Aeronautical Engineer | Data Scientist* </sub>
 
-As an engineer I gathered technical background (aerospace) with strong analytical skills, critical thinking and business experience to explore Data Science and be able to develop and deliver insightfull anaysis for my clients.  
+As an engineer I gathered technical background (aerospace) with strong analytical skills, critical thinking and business experience to explore Data Science and be able to develop and deliver insightful analysis for my clients. 
 
 My credentials include BEng in Aeronautical Engineering by University of São Paulo (USP) in Brazil and a Bachelor Exchange Program at Curtin University of Technology in Australia.
 
