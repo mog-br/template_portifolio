@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 
 <p align="center">
-  <img src="picture_git.png" >
+  <img src=""
 </p>
 
 # Michel Guijarro
