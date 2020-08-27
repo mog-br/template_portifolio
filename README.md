@@ -17,7 +17,7 @@ My credentials include BEng in Aeronautical Engineering by University of São Pa
 **Background in:** Python, MATLAB, Machine Learning, VBA, Scientific Payload and Aircraft Testing.
 
 **Links:**
-* [LinkedIn](https://bit.ly/2Aasa7f)
+* [LinkedIn](https://www.linkedin.com/in/guijarr)
 
 
 
